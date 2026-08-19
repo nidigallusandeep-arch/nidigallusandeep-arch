@@ -50,7 +50,7 @@ Turning raw data into meaningful insights using Python, SQL, Excel, Power BI, an
 ## 📫 Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/sandeepnidigallu
-  
+- GitHub: https://github.com/nidigallusandeep-arch
 
 ---
 
