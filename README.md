@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hi there, I'm Sandeep 👋
 
-<!--
-**nidigallusandeep-arch/nidigallusandeep-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Aspiring Data Analyst | AI & ML Enthusiast
 
-Here are some ideas to get you started:
+Turning raw data into meaningful insights using Python, SQL, Excel, Power BI, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 🔭 Currently building skills in Data Analytics, Python, SQL, Excel, and Power BI
+- 🌱 Learning Machine Learning, AI, and Prompt Engineering
+- 🎯 Goal: Become a Data Analyst / AI & ML Professional
+- 💬 Ask me about Python, SQL, Excel, Power BI, and Data Analysis
+- 📚 Continuously learning and building projects
+
+---
+
+## 🛠️ Skills & Tools
+
+- 🐍 Python
+- 🗄️ SQL / MySQL
+- 📊 Pandas & NumPy
+- 📈 Matplotlib & Seaborn
+- 📊 Power BI
+- 📑 Excel
+- 🤖 Machine Learning
+- 🧠 AI & Prompt Engineering
+- 🔧 Git & GitHub
+
+---
+
+## 📂 Projects
+
+- Food Delivery Data Analysis
+- Employee Management System using SQL
+- Bank Account Management System using Python
+- Employee Attrition Prediction using KNN
+- Heart Disease Prediction using KNN
+- Online Retail Sales Analysis
+
+---
+
+## 🎯 Career Goal
+
+> To start my career as a Data Analyst and grow into an AI & Machine Learning professional.
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sandeepnidigallu
+  
+
+---
+
+⭐ Thanks for visiting my profile!
