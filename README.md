@@ -84,9 +84,9 @@ Currently improving my skills by working on projects and practicing real-world d
 
 ## 🤝 Connect With Me
 
-📧 Email: **your-email@example.com**
+📧 Email:nidigallusandeep@gmail.com
 
-💼 LinkedIn: **Add your LinkedIn profile here**
+💼 LinkedIn: https://www.linkedin.com/in/sandeepnidigallu?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BcuTfsLSoTiaEsBTrBkFaDA%3D%3D
 
 ---
 
