@@ -87,22 +87,22 @@ To become a skilled **Data Analyst** and grow in the field of **Data Science and
 
 ## 📈 My Goals
 
-- 💡 Become a skilled Data Analyst
-- 📊 Build real-world Data Analytics projects
-- 🤖 Learn Machine Learning deeply
-- 🧠 Improve Python & SQL skills
-- 🚀 Contribute to open-source projects
+-  Become a skilled Data Analyst
+-  Build real-world Data Analytics projects
+-  Learn Machine Learning deeply
+-  Improve Python & SQL skills
+-  Contribute to open-source projects
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
-📧 Email:nidigallusandeep@gmail.com
+ Email:nidigallusandeep@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/sandeepnidigallu
+ LinkedIn: https://www.linkedin.com/in/sandeepnidigallu
 
 ---
 
 ⭐ **Thanks for visiting my profile!**
 
-### 🚀 Keep Learning | Keep Building | Keep Growing
+###  Keep Learning | Keep Building | Keep Growing
