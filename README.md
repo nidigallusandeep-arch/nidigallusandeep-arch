@@ -1,57 +1,38 @@
 # Hi, I'm Sandeep 👋
 
 ### Aspiring Data Analyst | AI & ML Enthusiast
+
 I am learning **Data Analytics, Python, SQL, and Machine Learning**.
-I enjoy working with data, solving problems, and building small projects.
-I am continuously improving my skills by practicing with real-world datasets.
-My goal is to become a skilled **Data Analyst** and grow in the field of **Data Science and AI**.
+I enjoy working with data and building small projects.
 
-## About Me
+## 📊 Skills
 
-- 🎯 Aspiring Data Analyst
-- 🐍 Learning Python
-- 🗄️ Practicing SQL
-- 📊 Learning Data Visualization
-- 🤖 Interested in AI & Machine Learning
-- 🚀 Working on Data Science projects
-
-## Skills
-
-### Programming
 - Python
 - SQL
-
-### Python Libraries
-- NumPy
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
-- Scikit-learn
-
-### Data Analytics
 - Excel
 - Power BI
-- Data Cleaning
+- Machine Learning
 - Data Visualization
-- EDA
 
-### Machine Learning
-- Regression
-- Classification
-- Clustering
-- Supervised Learning
-- Unsupervised Learning
-
-## Currently Learning
+## 📚 Currently Learning
 
 Python → SQL → Pandas → Statistics → Power BI → Machine Learning
 
-## Projects
+## 📁 Projects
 
 - Data Analysis Projects
 - Python Projects
 - SQL Projects
 - Machine Learning Projects
+
+## 🎯 Goal
+
+To become a skilled **Data Analyst** and grow in the field of **Data Science and AI**.
+
 
 ### Tools
 - ## 🛠️ Skills & Learning Journey
