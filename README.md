@@ -60,7 +60,6 @@ Currently improving my skills by working on projects and practicing real-world d
 ---
 
 ## 💻 Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidigallusandeep-arch&layout=compact&theme=dark)
 
 ---
