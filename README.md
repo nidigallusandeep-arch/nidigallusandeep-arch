@@ -52,9 +52,6 @@ Turning raw data into meaningful insights using Python, SQL, Excel, Power BI, an
 - LinkedIn: https://www.linkedin.com/in/sandeepnidigallu
 - GitHub: https://github.com/nidigallusandeep-arch
 
----
-
-⭐ Thanks for visiting my profile!
 
 ## 📊 GitHub Stats
 
@@ -63,6 +60,10 @@ Turning raw data into meaningful insights using Python, SQL, Excel, Power BI, an
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nidigallusandeep-arch&theme=dark)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidigallusandeep-arch&layout=compact&theme=dark)
 
 ## 💻 Most Used Languages
 
