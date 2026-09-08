@@ -61,7 +61,7 @@ Currently improving my skills by working on projects and practicing real-world d
 
 ## 💻 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidigallusandeep-arch&layout=compact&theme=dark)
+![Top Languages](./profile/top-langs.svg)
 ---
 
 ## 📈 My Goals
@@ -78,7 +78,7 @@ Currently improving my skills by working on projects and practicing real-world d
 
 📧 Email:nidigallusandeep@gmail.com
 
-💼 LinkedIn: https://www.linkedin.com/in/sandeepnidigallu?lipi=urn%3Ali%3Apage%3Ad_flagship3_messaging_conversation_detail%3BcuTfsLSoTiaEsBTrBkFaDA%3D%3D
+💼 LinkedIn: https://www.linkedin.com/in/sandeepnidigallu
 
 ---
 
