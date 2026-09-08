@@ -55,3 +55,15 @@ Turning raw data into meaningful insights using Python, SQL, Excel, Power BI, an
 ---
 
 ⭐ Thanks for visiting my profile!
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidigallusandeep-arch&show_icons=true&theme=dark)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=nidigallusandeep-arch&theme=dark)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nidigallusandeep-arch&layout=compact&theme=dark)
