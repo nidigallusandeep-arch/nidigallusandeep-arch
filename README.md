@@ -53,13 +53,6 @@ Currently improving my skills by working on projects and practicing real-world d
 - VS Code
 
 ---
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nidigallusandeep-arch&show_icons=true&theme=dark)
-
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nidigallusandeep-arch&theme=dark)
