@@ -1,9 +1,10 @@
 # Hi, I'm Sandeep 👋
 
 ### Aspiring Data Analyst | AI & ML Enthusiast
-
 I am learning **Data Analytics, Python, SQL, and Machine Learning**.
-I enjoy working with data and building small projects.
+I enjoy working with data, solving problems, and building small projects.
+I am continuously improving my skills by practicing with real-world datasets.
+My goal is to become a skilled **Data Analyst** and grow in the field of **Data Science and AI**.
 
 ## About Me
 
