@@ -74,15 +74,10 @@ To become a skilled **Data Analyst** and grow in the field of **Data Science and
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-## 🔥 GitHub Streak
+##  GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=nidigallusandeep-arch&theme=dark)
 
----
-
-## 💻 Most Used Languages
-
-![Top Languages](./profile/top-langs.svg)
 ---
 
 ## 📈 My Goals
