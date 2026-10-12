@@ -1,41 +1,78 @@
-# Hi, I'm Sandeep 👋
+Hi, I'm Sandeep 👋
 
-### Aspiring Data Analyst | AI & ML Enthusiast
+Aspiring Data Scientist | AI & ML Enthusiast
 
-I am learning **Data Analytics, Python, SQL, and Machine Learning**.
-I enjoy working with data and building small projects.
+I am learning Data Science, Python, SQL, and Machine Learning. I enjoy analyzing data, building machine learning models, and developing data-driven projects.
 
-## 📊 Skills
+📊 Skills
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Excel
-- Power BI
-- Machine Learning
-- Data Visualization
+Python
 
-## 📚 Currently Learning
+SQL
 
-Python → SQL → Pandas → Statistics → Power BI → Machine Learning
+NumPy
 
-## 📁 Projects
+Pandas
 
-- Data Analysis Projects
-- Python Projects
-- SQL Projects
-- Machine Learning Projects
+Matplotlib
 
-## 🎯 Goal
+Seaborn
 
-To become a skilled **Data Analyst** and grow in the field of **Data Science and AI**.
+Statistics
 
+Excel
 
-### Tools
-- ## 🛠️ Skills & Learning Journey
+Power BI
+
+Exploratory Data Analysis (EDA)
+
+Machine Learning
+
+Data Visualization
+
+Scikit-learn
+
+📚 Currently Learning
+
+Python → SQL → Statistics → NumPy & Pandas → EDA → Machine Learning → Deep Learning
+
+📂 Projects
+
+Data Analysis Projects
+
+Python Projects
+
+SQL Projects
+
+Exploratory Data Analysis Projects
+
+Machine Learning Projects
+
+AI & Data Science Projects
+
+🛠️ Tools & Technologies
+
+Jupyter Notebook
+
+Google Colab
+
+VS Code
+
+Git & GitHub
+
+Streamlit
+
+MySQL
+
+Power BI
+
+🎯 Goal
+
+My goal is to become a skilled Data Scientist and build real-world projects using Data Science, Machine Learning, and AI.
+
+📈 My Learning Journey
+
+I am continuously improving my technical skills by practicing coding, solving SQL problems, building projects, and learning new AI technologies.
 
 ### 🐍 Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
