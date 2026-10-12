@@ -1,40 +1,54 @@
-👋 Hi, I'm Sandeep!
+# 👋 Hi there, I'm Sandeep!
 
-🚀 Aspiring Data Scientist | AI & ML Enthusiast
+<h3 align="center">🚀 Aspiring Data Scientist | AI & ML Enthusiast</h3>
 
-💻 Passionate about Data Science, AI, and Machine Learning.
+<p align="center">
+  Learning to turn data into useful insights through Python, SQL, and Machine Learning.
+</p>
 
-🛠️ Skills
+---
 
-Python | SQL
+## 👨‍💻 About Me
 
-NumPy | Pandas
+- 🌱 Currently learning **Python, SQL, Data Science, and Machine Learning**
+- 📊 Interested in **Data Analysis and Data Visualization**
+- 🛠️ Practicing with **Pandas, NumPy, Excel, and Power BI**
+- 🤖 Exploring **Machine Learning and AI**
+- 📂 Building projects to improve my skills
+- 🎯 Goal: Become a skilled **Data Scientist**
+- 💬 Ask me about Python, SQL, and Data Analysis
+- 📫 Connect with me on LinkedIn
 
-Matplotlib | Seaborn
+---
 
-Excel | Power BI
+## 🛠️ Skills
 
-Machine Learning
+**Languages:** Python, SQL
 
-📚 Currently Learning
+**Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 
-Statistics and Data Analysis
+**Tools:** Jupyter Notebook, MySQL, Git, GitHub, Power BI
 
-Machine Learning Algorithms
+**Learning:** Statistics, Machine Learning, Deep Learning
 
-Deep Learning Basics
+---
 
-📂 Projects
+## 📂 Projects
 
-Python & SQL Projects
+- Python Practice Projects
+- SQL Practice Projects
+- Data Analysis Projects
+- Machine Learning Projects
 
-Exploratory Data Analysis
+---
 
-Machine Learning Projects
+## 🎯 My Goal
 
-🎯 My Goal
+To learn continuously, build real-world projects, and grow as a Data Scientist.
 
-To become a skilled Data Scientist and solve real-world problems using data.
+---
+
+⭐ *Learning every day, improving step by step!*
 
 ### 🐍 Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
