@@ -40,7 +40,21 @@
 - Data Analysis Projects
 - Machine Learning Projects
 
+
 ---
+
+## 🔥 My Motto
+
+**"As the discipline, so the victory."** 💪
+
+*యథా క్రమశిక్షణ, తథా విజయం.*
+
+---
+
+⭐ Keep Learning | Keep Growing 🚀
+
+
+
 
 ## 🎯 My Goal
 
