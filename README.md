@@ -1,68 +1,37 @@
-# 👋 Hi there, I'm Sandeep!
 
-<h3 align="center">🚀 Aspiring Data Scientist | AI & ML Enthusiast</h3>
+# 👋 Hi, I'm Sandeep!
 
-<p align="center">
-  Learning to turn data into useful insights through Python, SQL, and Machine Learning.
-</p>
+🚀 Aspiring Data Scientist | AI & ML Enthusiast
 
----
+I am learning Python, SQL, Data Science, Machine Learning, and Deep Learning.
 
 ## 👨‍💻 About Me
-
-- 🌱 Currently learning **Python, SQL, Data Science, and Machine Learning**
-- 📊 Interested in **Data Analysis and Data Visualization**
-- 🛠️ Practicing with **Pandas, NumPy, Excel, and Power BI**
-- 🤖 Exploring **Machine Learning and AI**
-- 📂 Building projects to improve my skills
-- 🎯 Goal: Become a skilled **Data Scientist**
-- 💬 Ask me about Python, SQL, and Data Analysis
-- 📫 Connect with me on LinkedIn
-
----
+- 🌱 Learning Data Science and Deep Learning.
+- 📊 Interested in Data Analysis and Visualization.
+- 🤖 Exploring Machine Learning, Deep Learning, and AI.
+- 💻 Building real-world projects.
+- 🎯 Goal: Become a skilled Data Scientist.
 
 ## 🛠️ Skills
-
-**Languages:** Python, SQL
-
-**Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-
-**Tools:** Jupyter Notebook, MySQL, Git, GitHub, Power BI
-
-**Learning:** Statistics, Machine Learning, Deep Learning
-
----
+Python | SQL | Pandas | NumPy | Excel | Power BI | Machine Learning | Deep Learning
 
 ## 📂 Projects
-
-- Python Practice Projects
-- SQL Practice Projects
+- Python Projects
+- SQL Projects
 - Data Analysis Projects
 - Machine Learning Projects
-
-
----
+- Deep Learning Projects
 
 ## 🔥 My Motto
-
-**"As the discipline, so the victory."** 💪
+**As the discipline, so the victory.** 💪
 
 *యథా క్రమశిక్షణ, తథా విజయం.*
 
----
+## 🎯 My Goal
+Learn every day, build real-world projects, and become a skilled Data Scientist.
 
 ⭐ Keep Learning | Keep Growing 🚀
 
-
-
-
-## 🎯 My Goal
-
-To learn continuously, build real-world projects, and grow as a Data Scientist.
-
----
-
-⭐ *Learning every day, improving step by step!*
 
 ### 🐍 Python
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
