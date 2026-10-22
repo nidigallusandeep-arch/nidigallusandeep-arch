@@ -1,16 +1,16 @@
 
 # 👋 Hi, I'm Sandeep!
 
-🚀 Aspiring Data Scientist | AI & ML Enthusiast
+ Aspiring Data Scientist | AI & ML Enthusiast
 
 I am learning Python, SQL, Data Science, Machine Learning, and Deep Learning.
 
-## 👨‍💻 About Me
-- 🌱 Learning Data Science and Deep Learning.
-- 📊 Interested in Data Analysis and Visualization.
-- 🤖 Exploring Machine Learning, Deep Learning, and AI.
-- 💻 Building real-world projects.
-- 🎯 Goal: Become a skilled Data Scientist.
+##  About Me
+-  Learning Data Science and Deep Learning.
+-  Interested in Data Analysis and Visualization.
+-  Exploring Machine Learning, Deep Learning, and AI.
+-  Building real-world projects.
+-  Goal: Become a skilled Data Scientist.
 
 ## 🛠️ Skills
 Python | SQL | Pandas | NumPy | Excel | Power BI | Machine Learning | Deep Learning
@@ -22,8 +22,8 @@ Python | SQL | Pandas | NumPy | Excel | Power BI | Machine Learning | Deep Learn
 - Machine Learning Projects
 - Deep Learning Projects
 
-## 🔥 My Motto
-**As the discipline, so the victory.** 💪
+##  My Motto
+**As the discipline, so the victory.** 
 
 *యథా క్రమశిక్షణ, తథా విజయం.*
 
