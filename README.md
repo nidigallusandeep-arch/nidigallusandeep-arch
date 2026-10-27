@@ -98,13 +98,3 @@ Learn every day, build real-world projects, and become a skilled Data Scientist.
 
 ###  Keep Learning | Keep Building | Keep Growing
 
-
-
-# Hi, I'm Sandeep 👋
-
-## 🐍 GitHub Contribution Snake
-
-![GitHub Snake](https://raw.githubusercontent.com/nidigallusandeep-arch/nidigallusandeep-arch/output/github-snake.svg)
-
-Keep Learning | Keep Building | Keep Growing 🚀
-
