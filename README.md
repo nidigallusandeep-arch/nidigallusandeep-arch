@@ -1,86 +1,53 @@
-👋 Hi, I'm Sandeep!
+# 👋 Hi, I'm Sandeep!
 
-Aspiring AI & ML Engineer 🤖
+### 🤖 Aspiring AI & ML Engineer
 
-I am interested in Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy learning new technologies and building real-world projects.
+I am passionate about Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy building real-world projects and learning new technologies.
 
-👨‍💻 About Me
+## 👨‍💻 About Me
+- 🎓 Computer Science and Machine Learning Graduate
+- 🐍 Learning Python and SQL
+- 🤖 Interested in Machine Learning and Deep Learning
+- 🧠 Exploring NLP and Computer Vision
+- 🚀 Building AI/ML projects
 
-🎓 Computer Science and Machine Learning Graduate.
+## 🛠️ Skills
+- Python | SQL
+- NumPy | Pandas
+- Machine Learning
+- Deep Learning
+- NLP | ANN | CNN
+- TensorFlow | Keras
+- Power BI | Streamlit
+- Git | GitHub
 
-🐍 Learning Python and SQL.
+## 🚀 Projects
+- House Price Prediction
+- Automobile Price Prediction
+- Loan Approval Prediction
+- Vehicle Image Classification
+- Oral Disease Classification
+- Word2Vec + ANN
 
-🤖 Interested in Machine Learning and Deep Learning.
+## 📚 Currently Learning
+- Advanced Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Generative AI
 
-🧠 Exploring NLP and Computer Vision.
+## 🤝 Connect With Me
+- GitHub: https://github.com/nidigallusandeep-arch
+- LinkedIn: https://www.linkedin.com/in/sandeepnidigallu/
+- Email: nidigallusandeep@gmail.com
+- Location: Hyderabad, India
 
-🚀 Building real-world AI/ML projects.
-
-🛠️ Skills
-
-Python
-
-SQL
-
-NumPy & Pandas
-
-Machine Learning
-
-Deep Learning
-
-NLP
-
-ANN & CNN
-
-TensorFlow & Keras
-
-Power BI
-
-Streamlit
-
-Git & GitHub
-
-🚀 Projects
-
-House Price Prediction
-
-Automobile Price Prediction
-
-Loan Approval Prediction
-
-Vehicle Image Classification
-
-Oral Disease Classification
-
-Word2Vec + ANN
-
-📚 Currently Learning
-
-Advanced Machine Learning
-
-Deep Learning
-
-Natural Language Processing
-
-Generative AI
-
-🤝 Connect With Me
-
-GitHub: https://github.com/nidigallusandeep-arch
-
-LinkedIn: https://www.linkedin.com/in/sandeepnidigallu/
-
-Email: nidigallusandeep@gmail.com
-
-Location: Hyderabad, India
-
-##  My Motto
-**As the discipline, so the victory.** 
+## 💡 My Motto
+**As the discipline, so the victory.**
 
 *యథా క్రమశిక్షణ, తథా విజయం.*
 
 ## 🎯 My Goal
-Learn every day, build real-world projects, and become a skilled Data Scientist.
+Learn every day, build real-world projects, and become a skilled **AI & ML Engineer**.
 
 ⭐ Keep Learning | Keep Growing 🚀
 
