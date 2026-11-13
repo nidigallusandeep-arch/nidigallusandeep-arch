@@ -1,26 +1,78 @@
+👋 Hi, I'm Sandeep!
 
-# 👋 Hi, I'm Sandeep!
+Aspiring AI & ML Engineer 🤖
 
- Aspiring Data Scientist | AI & ML Enthusiast
+I am interested in Artificial Intelligence, Machine Learning, and Deep Learning. I enjoy learning new technologies and building real-world projects.
 
-I am learning Python, SQL, Data Science, Machine Learning, and Deep Learning.
+👨‍💻 About Me
 
-##  About Me
--  Learning Data Science and Deep Learning.
--  Interested in Data Analysis and Visualization.
--  Exploring Machine Learning, Deep Learning, and AI.
--  Building real-world projects.
--  Goal: Become a skilled Data Scientist.
+🎓 Computer Science and Machine Learning Graduate.
 
-## 🛠️ Skills
-Python | SQL | Pandas | NumPy | Excel | Power BI | Machine Learning | Deep Learning
+🐍 Learning Python and SQL.
 
-## 📂 Projects
-- Python Projects
-- SQL Projects
-- Data Analysis Projects
-- Machine Learning Projects
-- Deep Learning Projects
+🤖 Interested in Machine Learning and Deep Learning.
+
+🧠 Exploring NLP and Computer Vision.
+
+🚀 Building real-world AI/ML projects.
+
+🛠️ Skills
+
+Python
+
+SQL
+
+NumPy & Pandas
+
+Machine Learning
+
+Deep Learning
+
+NLP
+
+ANN & CNN
+
+TensorFlow & Keras
+
+Power BI
+
+Streamlit
+
+Git & GitHub
+
+🚀 Projects
+
+House Price Prediction
+
+Automobile Price Prediction
+
+Loan Approval Prediction
+
+Vehicle Image Classification
+
+Oral Disease Classification
+
+Word2Vec + ANN
+
+📚 Currently Learning
+
+Advanced Machine Learning
+
+Deep Learning
+
+Natural Language Processing
+
+Generative AI
+
+🤝 Connect With Me
+
+GitHub: https://github.com/nidigallusandeep-arch
+
+LinkedIn: https://www.linkedin.com/in/sandeepnidigallu/
+
+Email: nidigallusandeep@gmail.com
+
+Location: Hyderabad, India
 
 ##  My Motto
 **As the discipline, so the victory.** 
